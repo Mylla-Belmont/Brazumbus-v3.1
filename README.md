@@ -41,6 +41,7 @@ Este jogo foi desenvolvido com **Unity**, utilizando **C#** para a lógica de ga
 
 Padrão de organização dentro da Unity:
 
+```bash
 Brazumbus/
 │
 ├── Assets/
