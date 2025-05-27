@@ -1,0 +1,3854 @@
+fileFormatVersion: 2
+guid: fa3de001716f8e346a92d296f861f5f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 830
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49694f03e9359f4cb0482be3cb0a679
+      internalID: 619671070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 830
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ce64410eac4a4dacc7ce55618351c
+      internalID: -1145500868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 830
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438446d88dc4894885bb86de71c7ddf
+      internalID: -287295919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 830
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3ece93a78a9842a5e0e891fc59c76
+      internalID: 1819083680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 790
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d6ad4971c491f468972622b6a714f7
+      internalID: -1250501998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 790
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ea51be7fabb044829328e0228c330
+      internalID: -1413500122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 795
+        width: 42
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789f1093a04eec4fad723a6b211d5df
+      internalID: -1005234350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 792
+        width: 42
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae2d13cc39c8a4e814d688dd40ba9f
+      internalID: 401460585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 791
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d8d9449e66174db8b90ee6307471d
+      internalID: -1983036820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 790
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6841113eab9eb46ae2e10fbd3c9e19
+      internalID: 1980798285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 790
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0aaa7da10baa4d9bc0e55e41db50a
+      internalID: 1216844408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 791
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a215870b175fed44eae7925f0da095cd
+      internalID: -920270571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 796
+        width: 40
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ea1dc994a13e4a92d98f952644686
+      internalID: -136343048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 793
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c4da95041066489088f7791aceda4
+      internalID: 750087549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 791
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3bef29192ba054aae742f3cf8165d5
+      internalID: -1108036550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 790
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5ed32ec1ec7e146a3c21dc1d3492e4
+      internalID: 886078476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 749
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0240a25ac3fec0d4db939065e10af163
+      internalID: 287252355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 749
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3439b644035f5f4ab581b0ebb3caf76
+      internalID: -1366486597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 698
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a15dbffdec8624409bd03173096a88e
+      internalID: 1806900895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 698
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece9964389855d49a421e43780a847e
+      internalID: 208898163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 706
+        width: 42
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576aac09880bc349824ff3b16a1dd16
+      internalID: -1948158313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 709
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd546b1a0065d40961778e3ea5dc34
+      internalID: -1263840877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 709
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec561fb84c5d3f243a25574379dd41c7
+      internalID: -1039569790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 698
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5775532d0c5d459b537fe24e883ea
+      internalID: 1812798027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 698
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831537af7880aa4419daf04c88191e5e
+      internalID: 1740344914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 698
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105110d628426f4b8da27347a5a26cc
+      internalID: -1356643325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 47
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb5b165e56c1e4c8b561e0c385964a
+      internalID: -233860833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 662
+        width: 47
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895d9729cda70e4cb324db78d2cba6c
+      internalID: -1065689944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 662
+        width: 48
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6419e9c961fb2a48bd20cce669718c1
+      internalID: -1215274600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 662
+        width: 43
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e083893ac28d2914abc034273a39bccc
+      internalID: 2057407467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 662
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa39cabac94ace419b1967c91a92ae6
+      internalID: 117965992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 662
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1997b44810a0d3c4e80f6d2b97021149
+      internalID: 78046019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 662
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65684a29191159248923c5ce29e5ddd7
+      internalID: -1702732851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 662
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ab9f8f5a95e384f9c7cd083356cab8
+      internalID: -844357637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 615
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59094f66a9de8484e9b5ce1472c0e467
+      internalID: -1486870406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 615
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251a926e677ffb41a8bf737d23bea1a
+      internalID: 194512154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 615
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07a84b045008c40b35fc8459f5a3dc
+      internalID: 1817140129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 615
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0d570e100780846838d0ef64625afc
+      internalID: -333219217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 615
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd76f001ae15245b1e156b3b4ea475
+      internalID: -1479467405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 615
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cbcb20ecde934298fb805bc08a3a8
+      internalID: 2112362921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 615
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c06bb0b038b814eb8ac1483fb4ef0f
+      internalID: 1602042819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 615
+        width: 40
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9eb50dd29f873409e4dc8ffe95a8e7
+      internalID: -1484848864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 615
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab47d3b6accf744c8858c2f7b0258d5
+      internalID: -953085725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 615
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada432f118c7f648b545773e2043052
+      internalID: -1401136384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 615
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bfe51538054cc40ac4536b7a2f29f1
+      internalID: -1721180423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 615
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904710da296b704e883d80b54ec909e
+      internalID: 1346633191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 615
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f12a75830feb4791bee1da12fc4b1
+      internalID: 909208806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 585
+        width: 40
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a66f55018f0944a35c4287401b327
+      internalID: 352114392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 535
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb058b867c8c7774088b7af2fa958279
+      internalID: -961736133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 535
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a8acb5d20f2944970a215d5be8e97
+      internalID: 474895298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 535
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1828bfa1317b942b727756b1cc76b2
+      internalID: 1813035292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 535
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96eacebe9f5d6e44b0c245b380fd34e
+      internalID: -849722395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 526
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cc0c8a186de24bb6021a94e94d6f0
+      internalID: -1448632768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 535
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c045b64556781b47846f7d8fbf6b210
+      internalID: -25879175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 535
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec7819dca3f3624d9520bc4e6e3b4e7
+      internalID: -170817692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 535
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601dbf1814f16949a509be440e28908
+      internalID: -420966660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 535
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10761d39f0199b409fcadf23fccc897
+      internalID: -859983979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_57
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 535
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770ba0d26fcd6f4b9b4ab5d132142cc
+      internalID: -517416911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 484
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6042c6ea207adc4b82e8a8ccfcee70c
+      internalID: -1681696473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 484
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702c9997030d94428ae35972cb86920
+      internalID: -1461310066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 521
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e32026a3de714f88e4be0b5ee1dd2
+      internalID: 1153327539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae1ec5ddbdf3b740897b5b71a2239ba
+      internalID: 923003819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 484
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa310444d5e69ad4788dfe294688f9c5
+      internalID: -40818432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 484
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060e82edb3bc5d489da18af447affac
+      internalID: 503408369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 484
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa67490b6decb4dbf82352f4e0f417
+      internalID: -425032689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 484
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103fd59141f0bc04d9e5d0afd103bb3e
+      internalID: 721988837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 484
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d7881837b7f247a9e737eedcc6040
+      internalID: 1995290169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 484
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca79b2c63889ab4097584af6e24ce56
+      internalID: 176192172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 484
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130433c4e4cd3864ebb86436d779bfae
+      internalID: -541238808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 433
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c4bd988c8c3249836be48499121ed
+      internalID: -1181195646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 433
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6139f5eeeb86ac8449e11788c2271294
+      internalID: 8041480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 433
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b6585dc3e9ee47b49a0ad5b50871e
+      internalID: 1275883102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 433
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d327676803c9404ea7217aeea2f3d31
+      internalID: 71964714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_73
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 433
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd144556cc9d2542a11771f12f5237a
+      internalID: 1445434904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 433
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8424c402d2f3e444d81e97ed95cdc741
+      internalID: -286762747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 433
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4389fb32baca0f241beebf972eeff363
+      internalID: 1985889960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 433
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0809e3aeed2d4b93bb04d507f5bc8
+      internalID: 170790702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 433
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f43fdc7db251d489194f4859381bb3
+      internalID: -916671532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_78
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 433
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312e8f69b4ba2843b2704fe1bd0de78
+      internalID: 1744542498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 433
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49796808a4fe469498cc4aa664423b71
+      internalID: -16591563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_80
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 433
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afaa82a6c33e7c4c935d2fc3d827119
+      internalID: -109870909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 392
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7209f9f5a06ff04bbda0f893486478a
+      internalID: -1111130349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 392
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ede9bc1ac05547a142ba6b50eaca3
+      internalID: -361871625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 392
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac49584b1107d4cbd021c3a582ad56
+      internalID: 653178061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 392
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c0d208390856147879286b7f6caed9
+      internalID: -1450486979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 392
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472d54e58105a34787803d40d4c2b00
+      internalID: -1068154359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 43
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858efc42ff2ebd45ad113202f8794fa
+      internalID: 670936440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 355
+        width: 47
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e62a2fce783743b3b78b74b3ba4e2
+      internalID: 614932088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 345
+        width: 49
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fced48afded7945915e578b2e5ce9d
+      internalID: -450554709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 355
+        width: 41
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332117dd111ad84c9a311a9c9e4d9f4
+      internalID: 19955270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 355
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da430bce50f484a489da41e157109871
+      internalID: -1637455103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 355
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cd119ba09c6249b209097e066bce2
+      internalID: -89798764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 355
+        width: 43
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ca341bed8d7740b11c363f6d98def
+      internalID: 959330333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_93
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 355
+        width: 47
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0feefe78ed6157418b74e167802f213
+      internalID: 238841937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_94
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 355
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a62058f983d014db04a7422eee9b4e
+      internalID: -126420090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_95
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 355
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089bd6d5db62b47469342dacaee6b96f
+      internalID: 331539881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_96
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 355
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d181a58046bd74fa817021ba8c41ad
+      internalID: -1715454567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 346
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131bfdc6b324d84a96c860927374784
+      internalID: -1364603698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 314
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048b01eeb7e644b43b7c46616be9c117
+      internalID: -197478934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_99
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 314
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96f9da90801ba94c97b63b2036af282
+      internalID: -1454454246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 314
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac10a85b72669a43a0e4dbb3fd3ab61
+      internalID: -1143999958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 314
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf61006c64ce794fa7f5f85a12dae68
+      internalID: -259362432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_102
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 314
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f49cc7b1dd7f3542a6122df0a65b4e8
+      internalID: 1022050478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739607b64245ee499075bf46fcf726e
+      internalID: -10260687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_104
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 314
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78c32e9ba4400e46a6dcf81cacf1936
+      internalID: -677415216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_105
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 314
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f477af8d6edca1740a84884d789c2d14
+      internalID: -2067082230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 263
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513139327252494438292e32e9acd622
+      internalID: 1288415623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_107
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 263
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33daec56368baf48b191f3ecd676d7e
+      internalID: -1112053218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 263
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccebe477ce7fde47b08aa6c2abb38cf
+      internalID: -752073103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 263
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c8a2dbf47dcea4a9bea032868e579c
+      internalID: 310078156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_110
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 263
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10aaa8740f8e9946ab537cafbb6e890
+      internalID: -1000297037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 263
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5923fb2dd2e20234c98e6766c3b7edfb
+      internalID: 1855532140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a994d8e8b8bfdc4ba66f8e0ec72945c
+      internalID: 1432054966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_113
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 263
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd3e3e8eb907de46881f442acb6d8da
+      internalID: 535347844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 263
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a0fc595ff537348a67862f8d525b7c
+      internalID: -1527577672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_115
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 27
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edff6deb9e7c744f92a0b8d898c4145
+      internalID: 823634859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_116
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 263
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542e5ff3fdbafe4ca49c6a7fe811ee6
+      internalID: -1141293740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_117
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 263
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3e3ae89abec24499f4fe1d2d94cba
+      internalID: 734255389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 222
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3406807714104b9faa89d4e744e94
+      internalID: -89208847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_119
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 254
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e797089df469730488f5eeb58906f88d
+      internalID: 1925660257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 222
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d10db13cec74844b652398a988916c
+      internalID: -923327466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_121
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 222
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb02dc60595c74eafc973ea77293a3
+      internalID: -619192058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_122
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 222
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9d9902118db564e8510510b8c433cb
+      internalID: -849318233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 222
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359cb5865342e6841ae37c4c0ae41de7
+      internalID: 1049746911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_124
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 222
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4903ba076099294b851cad81f1f3a93
+      internalID: 1502819176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_125
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 222
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86970eb5bc34c44908c7d43bf5fee8
+      internalID: -615406775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 222
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378251d2b926c44697f2be71fbb568b
+      internalID: 1905427458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_127
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 222
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b0e1c7f9554124bb5223e6cf319d11
+      internalID: 1135879388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_128
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 222
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb68653caa85bb4b96c91607a2d68c4
+      internalID: -2106660308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_129
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 222
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a05c0a4d2ba654db1008d1c4c0e9ad
+      internalID: -1604912513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_130
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 222
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8fd3a307e78da4a9c9731f8114cb62
+      internalID: -86201467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_131
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 222
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2f019c7fcd574c994a078397dcc7b
+      internalID: 1820718359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 43
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee1569d8f1fae47a33e69ebf70f147
+      internalID: -244677024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_133
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 174
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d538153fc6f6346b53dbb0d7b7b634
+      internalID: -2102699659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_134
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 174
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af3f504df9dc3f4aa081a1ada77dd2b
+      internalID: -1208003271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_135
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 174
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe3b416fca4f04590931cb8057ca8c
+      internalID: -935871205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_136
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5b5ca183c67164f82238f8831cbcd0
+      internalID: 798698499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 174
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1dd3397ff6a6b4ba12382647d7443d
+      internalID: -2084962974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_138
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 174
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c625d64d8d55d40a03b8698ced981e
+      internalID: -557667405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_139
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 174
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b44a666d75cd8a409fda8bd9fec6e63
+      internalID: 287759525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_140
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 174
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9af9c854947684b971eb63ce5bbb73
+      internalID: 308740831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_141
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 126
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bc330e2af15942b90f2b8d82a65d9
+      internalID: -1412054658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_142
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e608c59d0b3adb418bca5b40624de1b
+      internalID: 35818617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_143
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18fb0244ec4c3f47b95229a923ea4bc
+      internalID: 774444124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_144
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 126
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495092ee2710e24298bcedd2781694b
+      internalID: -1622123851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_145
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 125
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d4ef430972294e8e811f9ff0ba74b
+      internalID: 398853807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 125
+        width: 41
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45044f8271fdb2941a30402341fc5ac1
+      internalID: -1792828662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 125
+        width: 41
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16e674e35203a43af6ffc7931c0a87
+      internalID: -1937144984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_148
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 125
+        width: 41
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7619745598337e4a84315cf4a3d1700
+      internalID: 243111581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd10e78cb96834f9eab7a99e5da17d
+      internalID: -1025518084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_150
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 90
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265a520a95f90c41a03dd3d8ef9bac9
+      internalID: -829941527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372113d3b5e8b8d4684ecd472b9d67da
+      internalID: -1117996576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 90
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d254652c00b44d24a8157f113f9fc2d7
+      internalID: -1336039616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_153
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c774a5db91014c9bda5a094613c89
+      internalID: -423623169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_154
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 90
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446a500653fb2741b51e1deab1ad0fd
+      internalID: 1687533786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_155
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 90
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c63b11c1d7e90f439365e4752a3814d
+      internalID: -5694462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_156
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 90
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd9a642a0c71948807f57b6bd650fa
+      internalID: -311971716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_157
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 90
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b20e62d686d8fa4c95571eb0a9d6e85
+      internalID: 2095448267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_158
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 90
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17469357ba9e824997f314007db534b
+      internalID: -906066791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_159
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 90
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824bcd9dec8af14a8a20944b7c97477
+      internalID: -356209723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68003ac50a89cc6438e9a881b09c15db
+      internalID: 1663887002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_161
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d31371251eb3d4089403ef63f04469
+      internalID: 1814818057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_162
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 54
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5ee449951c4849bcf93668495b90b
+      internalID: 1741430208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 54
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd3d11517151e4c9d8c3f987e6700e
+      internalID: -337361483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_164
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579541264cf48a44a32e16827a83613
+      internalID: -2079546703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_165
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e9f8568bb99314fa17e836211a449a
+      internalID: 2086370359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_166
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d463859d5ef9284ba557f22b91b5a90
+      internalID: 551717517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_167
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e1c1a8509fc1c489d4bc356efcd25f
+      internalID: -737371421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_168
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a4db0f0ff4bee478fd679ad7173c7c
+      internalID: 1821454045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29427cd12d4754d86cc7f2b0d343fe
+      internalID: 184769792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_0: 619671070
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_1: -1145500868
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_10: 1216844408
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_100: -1143999958
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_101: -259362432
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_102: 1022050478
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_103: -10260687
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_104: -677415216
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_105: -2067082230
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_106: 1288415623
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_107: -1112053218
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_108: -752073103
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_109: 310078156
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_11: -920270571
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_110: -1000297037
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_111: 1855532140
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_112: 1432054966
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_113: 535347844
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_114: -1527577672
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_115: 823634859
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_116: -1141293740
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_117: 734255389
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_118: -89208847
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_119: 1925660257
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_12: -136343048
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_120: -923327466
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_121: -619192058
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_122: -849318233
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_123: 1049746911
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_124: 1502819176
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_125: -615406775
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_126: 1905427458
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_127: 1135879388
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_128: -2106660308
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_129: -1604912513
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_13: 750087549
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_130: -86201467
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_131: 1820718359
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_132: -244677024
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_133: -2102699659
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_134: -1208003271
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_135: -935871205
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_136: 798698499
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_137: -2084962974
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_138: -557667405
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_139: 287759525
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_14: -1108036550
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_140: 308740831
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_141: -1412054658
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_142: 35818617
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_143: 774444124
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_144: -1622123851
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_145: 398853807
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_146: -1792828662
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_147: -1937144984
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_148: 243111581
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_149: -1025518084
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_15: 886078476
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_150: -829941527
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_151: -1117996576
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_152: -1336039616
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_153: -423623169
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_154: 1687533786
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_155: -5694462
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_156: -311971716
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_157: 2095448267
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_158: -906066791
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_159: -356209723
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_16: 287252355
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_160: 1663887002
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_161: 1814818057
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_162: 1741430208
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_163: -337361483
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_164: -2079546703
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_165: 2086370359
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_166: 551717517
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_167: -737371421
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_168: 1821454045
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_169: 184769792
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_17: -1366486597
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_18: 1806900895
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_19: 208898163
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_2: -287295919
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_20: -1948158313
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_21: -1263840877
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_22: -1039569790
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_23: 1812798027
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_24: 1740344914
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_25: -1356643325
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_26: -233860833
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_27: -1065689944
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_28: -1215274600
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_29: 2057407467
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_3: 1819083680
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_30: 117965992
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_31: 78046019
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_32: -1702732851
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_33: -844357637
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_34: -1486870406
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_35: 194512154
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_36: 1817140129
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_37: -333219217
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_38: -1479467405
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_39: 2112362921
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_4: -1250501998
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_40: 1602042819
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_41: -1484848864
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_42: -953085725
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_43: -1401136384
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_44: -1721180423
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_45: 1346633191
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_46: 909208806
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_47: 352114392
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_48: -961736133
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_49: 474895298
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_5: -1413500122
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_50: 1813035292
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_51: -849722395
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_52: -1448632768
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_53: -25879175
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_54: -170817692
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_55: -420966660
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_56: -859983979
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_57: -517416911
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_58: -1681696473
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_59: -1461310066
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_6: -1005234350
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_60: 1153327539
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_61: 923003819
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_62: -40818432
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_63: 503408369
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_64: -425032689
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_65: 721988837
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_66: 1995290169
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_67: 176192172
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_68: -541238808
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_69: -1181195646
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_7: 401460585
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_70: 8041480
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_71: 1275883102
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_72: 71964714
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_73: 1445434904
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_74: -286762747
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_75: 1985889960
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_76: 170790702
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_77: -916671532
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_78: 1744542498
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_79: -16591563
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_8: -1983036820
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_80: -109870909
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_81: -1111130349
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_82: -361871625
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_83: 653178061
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_84: -1450486979
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_85: -1068154359
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_86: 670936440
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_87: 614932088
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_88: -450554709
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_89: 19955270
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_9: 1980798285
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_90: -1637455103
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_91: -89798764
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_92: 959330333
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_93: 238841937
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_94: -126420090
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_95: 331539881
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_96: -1715454567
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_97: -1364603698
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_98: -197478934
+      Neo Geo NGCD - Metal Slug 4 - Rebel Soldier Rifle 1_99: -1454454246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

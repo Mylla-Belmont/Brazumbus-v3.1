@@ -1,0 +1,3722 @@
+fileFormatVersion: 2
+guid: 814452a7ef9b502459463b06455645f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ede8c91f66f3459a8885a4d4e9842
+      internalID: 492134243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 214
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6a0c1801873a47a047f5d0acd87e3
+      internalID: 1539045732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 214
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa72203a2fe8b54d8541b97979da14e
+      internalID: -1914998107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 214
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa4786863fa8d43bde68da469d49d5
+      internalID: -1684578935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 224
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631e399542e42c499fdb77ca5683a0d
+      internalID: 1371858803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74490f3e124d1c04da58b0bece261d5c
+      internalID: 1799360447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 225
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a220385a81f63340a7cc142c27391a0
+      internalID: -260580770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 224
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b232ce0692074f89257a8f3f87f4e
+      internalID: 1361875512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cb839a1439c254d90e10b7831edcbe
+      internalID: -716632757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09868e887df95d642875ce9e85af2d82
+      internalID: -753972003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 228
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab99628ddbe34e4fa3c556d473a8119
+      internalID: 117273785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7887965282428143923dd0f38bdc9e2
+      internalID: 69403042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 217
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8007306d7b3a144e9f42daddac95818
+      internalID: -268097163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6beb8d1e5a6f5f4e8382eb19996e2d8
+      internalID: -1360994569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0b83f8966fec47a9f00aa233da246
+      internalID: -47689426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202466d36461d141aee5cc1f26c57f2
+      internalID: -493382067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58927c0d2a80aa64fb0c80683bf2e6be
+      internalID: -1699426325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c51b397960a94bb106a46953891a9
+      internalID: 378997426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e7328f1aad051408be5b50acb0859c
+      internalID: 1432449455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fba471582771c34dab7320a56ef6cba
+      internalID: 982364020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a362b2b072d6ab41b960b1766bce10a
+      internalID: -2087343602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 218
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622ec5a7d3300047836bc8dda5e071f
+      internalID: 859999658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e30b1026cce54090087186ffad2bb
+      internalID: 478429592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 216
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59037e6d8f833d7438cbc975eb825629
+      internalID: 950047584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_24
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 216
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65712870fe611e5429287e8088b960ad
+      internalID: 1343592235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 216
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f1cae998d3cb4ca8c9b822575d720
+      internalID: -909669228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 216
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9bf871de68c2a45abf90fff8514512
+      internalID: 1080445764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 220
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf09cd74149ec4c9f7feb1ee700f1d
+      internalID: 964104767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25b234d0b212840ba4ec1c9c3db386
+      internalID: 1781240996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 202
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062dd4480b2aaa4089ab1f3c6cf059a
+      internalID: -2080605529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 202
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583b0ec60754d064ea07e99227687321
+      internalID: 649157061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00479df48e08d7e4ab4f95b73176cf24
+      internalID: -64088871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 202
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c9a02f70993f44bfc0417f22e3c11
+      internalID: 804128200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f922a670d5e1c24e9230ee8a1113fc4
+      internalID: -1490410867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882019ad80befa84bab9c42dc85e9f06
+      internalID: 898459203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179aaecf39e6a5449144495f314935b
+      internalID: 2016208877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_36
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 202
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b755b835cb9475946bd46b8cb8fba0e3
+      internalID: 888853206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad90675b8133f4e8385263882bfa0d
+      internalID: -1380463872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 202
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e5a01e4d88744ab5599fe0efd4f6b
+      internalID: 611153223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 202
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab78ffea1466f24c95371c5da0799b6
+      internalID: -2080557613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade98e94fa39e4e4e8b51a34514fd0e7
+      internalID: -1554007746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a85e2f4ecf9341990b4fa561d9356
+      internalID: -1803549568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6efbf53156ab43b699db7a2d00d28
+      internalID: -1055332478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f86aef374b0e545a4c237a9b7ddce7
+      internalID: 705289069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b90521fef8aff641811b10cce37552f
+      internalID: -1336336561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5cb2bba2e5dc74f9e805d4c51e23ff
+      internalID: 622708703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 208
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40775fdd3adaf943b2ca83b58cf7150
+      internalID: 2090003013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 173
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a539d696509148938e2bec7d31531
+      internalID: 1277824576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 173
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d26ed68129f0d4d8128fd195ec0e01
+      internalID: -698156374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 173
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9657f468eee07419e73bdbd22638f6
+      internalID: 1721384724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 173
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca801671db0188a46813a99fdb34516d
+      internalID: 1693257906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_51
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 201
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da636fdc0a2c02a42be66dfe61b2dbee
+      internalID: -1685343699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 177
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb7a49abd0eab949a069714d466897d
+      internalID: 317070991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 178
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fffa2568c51624dbbb89aa243d5e0f
+      internalID: -1583080524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 178
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8b2d7ddc4d6b4d9358df3230b72b4
+      internalID: 1398756355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 178
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da447444466b120418c602e183b81919
+      internalID: 1342511504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 178
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43543df2eba8bc41b954c44e6281ceb
+      internalID: 960540488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 178
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d50aab92fd974f83f9a2060c792e9
+      internalID: 1862004070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 178
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad196c0c2db3414c89da93d8775c148
+      internalID: -963977600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_59
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 178
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b762ff7b00d4944c93706b50c5d4c68
+      internalID: 1591279773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0072539d7b1cd4682fe84ae28c1abf
+      internalID: -165997112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 178
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741ec9a02d9e3843894a45f8b83fd5a
+      internalID: 530902229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98aa41a43305de4a883484697936bcb
+      internalID: -1562724743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 178
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3194d22da1729da4680f6205f00ffe5d
+      internalID: 1579503564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be8e86b49d68c42958a8f42dc1d3d2
+      internalID: 1449293491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_65
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 180
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a52299532a7214084cd4b0f7985308
+      internalID: 629234748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_66
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e25f77345b594884ed8e02b59b468
+      internalID: -1092224464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d682fde02a80ac4d93f4c8d16d3e78a
+      internalID: -1424594465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_68
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 180
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfcbfef787db94ab1631d5c9a60b82
+      internalID: 1618766492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_69
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ec2c7fd9ea6d43857c828b8f789de
+      internalID: 19212967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_70
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 192
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d73355d565b1542a37facc0fa3d21c
+      internalID: 1963691783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_71
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 169
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce238fc16256f48a28f2f3349bb283
+      internalID: -631403251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_72
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 180
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e3833a04660e44809284e2ed6111d
+      internalID: 1307468141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751834a8620f4d49a0baf3c792382bf
+      internalID: -76390679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3f2a183b473045951d5ef737cce0b
+      internalID: -1170288509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 154
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a787c41d07234ab670b07cecb5f37
+      internalID: 2050955723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acedc02d0c32a54c8e43d6bda62d4ba
+      internalID: -892790041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_77
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb3d509372cf845b08d86f5cd4be4c
+      internalID: -1248092312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35705d998ff4149859735412169388
+      internalID: 1557435228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 154
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad75e7e8d556b418082178db294980
+      internalID: 379632255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_80
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddae42791197b294a8a9f228e63a162f
+      internalID: -1168969356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9852bc07bf6d242b3692f7f906e1e6
+      internalID: -380736165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748a2e33ff1e8c4d8c70c4a0fdfec5d
+      internalID: 271542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 154
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68868eb5ae90d1c4cbc54cdd7f133f74
+      internalID: 314949567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_84
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecfdbb13f9df4d4a8b2312a63014b93
+      internalID: 326560150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_85
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 168
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13ce6796664834b86d3fe65216d4eb
+      internalID: 521344918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 168
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff036474a45712440943222e4fff67a5
+      internalID: 1376326149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 168
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c337fd7103c43478d8c35df5a37208
+      internalID: -1128123040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 167
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c96bf81adc9c8c45a678fdb10f07d6b
+      internalID: 2087556749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_89
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 163
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50edf598946480d4c84e351a77d8a8fb
+      internalID: 1260245347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 134
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4d08a8e7728648a4e6c2bf6bfd6a0
+      internalID: -12709665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 134
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6506fcd743c7a2d4ba8478210814cce4
+      internalID: -306305739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_92
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 134
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da850e052f4f63f4c82558143f82505b
+      internalID: -1661275740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_93
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 134
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafbf2c94493b847988cd0e7495ca11
+      internalID: -1535043154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 150
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059587d9a3844047bd3166745c05970
+      internalID: -1048246540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_95
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 148
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec5bc8c161167a4897142d4fc3e80ce
+      internalID: -2040019354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_96
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 149
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395536dd2b483946b40cf9ebef16fb1
+      internalID: 1180937546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_97
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338039486ac7e14eaf8271c0008fc18
+      internalID: -247705168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_98
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 148
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97d8f5333ebb547b7293d04c63825b
+      internalID: 500574451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e808928644c845a5e2e92db3b3bad
+      internalID: -1626227829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_100
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 136
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf29e3c5228fa438c83e3ed8ff3751
+      internalID: -646184821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_101
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 152
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84536306755834849a014c80eca7888c
+      internalID: -1892588324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_102
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 140
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d606e4936d8f2a4cb2ea9e423e0d898
+      internalID: 306640554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 112
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d4d0cdc235e94bab2c6c025ac80ff
+      internalID: 855344566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75674a2731f6114480c7e71b96ce2f1
+      internalID: 241576423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 112
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6745185260a516f4fa4543f839e7cbdc
+      internalID: -230307880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bb781ef0e3d347823f030024f5c5e
+      internalID: -286605494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e7165c7ce568b469f0cc80a545692f
+      internalID: 1551975599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_108
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 116
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6509009e25a7cb47bb9b537bb46cc81
+      internalID: -370860204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_109
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 128
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8d800219d92248995b97fda023910
+      internalID: -1951782564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 99
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c6bbf7baf6f845bf0a7fea5cee674
+      internalID: 860539977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_111
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 100
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72927464f6f3c8d4b8f79269530c4832
+      internalID: 1764057078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_112
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 99
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d59e3a79badb742bb301ca676e3131
+      internalID: 1827789429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_113
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 99
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab05c1792e866419c6693c8d76ae15
+      internalID: -635093667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_114
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 100
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d15a8d6a9d304b8f9f02e6234eca7
+      internalID: 1701703948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_115
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 115
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf843d633681c4ba4ddd7556c3ae7b
+      internalID: 1176628459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_116
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c6eca3299c7524f900e3c2f31de2dc
+      internalID: -1294375958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_117
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e69858032a32c4fa3f8a22b09929b8
+      internalID: -1158222672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_118
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 92
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12972e7e6e1951e4180a47a20def834a
+      internalID: 1868006694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_119
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 103
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397f660d4752930449e0c34989e951ef
+      internalID: -1156053233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_120
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 79
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcd42f7690aff41a102f5cd6c0017c
+      internalID: -541523917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_121
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 79
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb585e94ee3c6044686560791720eca4
+      internalID: 708851138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 79
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882643e3f3e33a6418c14d17a4cc4fe5
+      internalID: 1348416936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6398b92a421ef4fb52106618ce3bf2
+      internalID: 783690885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_124
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6546ea9613ded4b8dc541038e0c181
+      internalID: -1686174346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_125
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 67
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e310db62c8caf94ba20ebfabd64cf5e
+      internalID: -1774872973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 67
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0ca600fe3a3b4d8f4dbc9f864aa10
+      internalID: 744788796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_127
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 67
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab4130381a96146988698fcc7de164
+      internalID: 1202846813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_128
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d181e772e58484991a5b94493ed44c
+      internalID: 866525166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_129
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf92b7eafc85c439e5eb0cab5bcd8c
+      internalID: 825128414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_130
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa49bf97559af824a9c4ad31e397c0a6
+      internalID: 1826367715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_131
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 67
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658f72441102314aabf74527ccebed7
+      internalID: 1032531121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_132
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 67
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7a270bf5f8bd4ba1a65c380ba2cac
+      internalID: 1381382272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_133
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 67
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73667952f43bff54e99ddbd48a164258
+      internalID: -1310389494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_134
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 91
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e1b8430dd6d15429b69c1570a92150
+      internalID: 1681377127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_135
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5474e2dedc58641ab63eff69101269
+      internalID: -465140436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_136
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 41
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214add5359d502a4697799a7518f23fd
+      internalID: -561251916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_137
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 71
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c40af9198be5744c8b2ef62aad77ed3
+      internalID: -1979686789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_138
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 68
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e2fe7546cdd44f968b8430834c926
+      internalID: -1460419108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_139
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82277eafa53e06541bb759aeb4c89a05
+      internalID: 38309140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_140
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 41
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb978908d1c22f4abdcd2db6852735f
+      internalID: 1525034933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_141
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 41
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e04e75aaee939c4e84d3c523a2bad0b
+      internalID: -949579078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_142
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 43
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e2854ae151ab4db9198ca0a1c3ce6
+      internalID: 1707767922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_143
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 43
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1269c4af57b04597b2d77eac93dff
+      internalID: 429651108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 43
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c14fdad800c748a7022cd6ad8d554
+      internalID: 1009184835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_145
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 42
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43321147c991f104c94fb1760e9cf475
+      internalID: -812758892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_146
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 43
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7888d3f53183e7f41b474b9f057b12f2
+      internalID: 175847829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_147
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 43
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ce3f57b5c1cd14e980341c27730c62
+      internalID: -212907198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 43
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82552b149fe8b546a54c9cf33cd1c7f
+      internalID: -1080191616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_149
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 43
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b553da9612e7a824ebc976427da8dc50
+      internalID: 1867119983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_150
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 48
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee7d8f6e3833c49a4ac207f5aa4c39
+      internalID: -1599518370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_151
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 28
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2955a5408b3034fb0d519ae0130c72
+      internalID: 1016402349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_152
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 7
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce0cc7d4eaa4345954fc9da8a83330
+      internalID: -276122096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_153
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b945426422064d9792afaa090b95b
+      internalID: -834882219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_154
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cf60045a303914787c80c94cf10ed8
+      internalID: 730152103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8cb367745f7e24ebfe56cdee2dd8f7
+      internalID: -977845804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_156
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 7
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86510480a126924cbe98909f45d56c7
+      internalID: -943986660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_157
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 7
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670546ea526b414b96521cde4cc03d2
+      internalID: 174239336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_158
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 7
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bae95f386c4e449bf086a6bb1c608a
+      internalID: -862310944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_159
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 7
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9699f1883546408833373e6ffb34a
+      internalID: -1396391851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_160
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c02dceaf2d1c4ca408e307f75590e
+      internalID: 1133418767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_161
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 7
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade01bb3f744e69429423b26de55cbdf
+      internalID: -1964652366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_162
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049e4ecef2994d4ab316163fb686692
+      internalID: -620626905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Home Improvement USA - Items & Collectibles (1)_163
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eb5af77b697ed4fbca5d22aa59e378
+      internalID: -1949835289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Home Improvement USA - Items & Collectibles (1)_0: 492134243
+      SNES - Home Improvement USA - Items & Collectibles (1)_1: 1539045732
+      SNES - Home Improvement USA - Items & Collectibles (1)_10: 117273785
+      SNES - Home Improvement USA - Items & Collectibles (1)_100: -646184821
+      SNES - Home Improvement USA - Items & Collectibles (1)_101: -1892588324
+      SNES - Home Improvement USA - Items & Collectibles (1)_102: 306640554
+      SNES - Home Improvement USA - Items & Collectibles (1)_103: 855344566
+      SNES - Home Improvement USA - Items & Collectibles (1)_104: 241576423
+      SNES - Home Improvement USA - Items & Collectibles (1)_105: -230307880
+      SNES - Home Improvement USA - Items & Collectibles (1)_106: -286605494
+      SNES - Home Improvement USA - Items & Collectibles (1)_107: 1551975599
+      SNES - Home Improvement USA - Items & Collectibles (1)_108: -370860204
+      SNES - Home Improvement USA - Items & Collectibles (1)_109: -1951782564
+      SNES - Home Improvement USA - Items & Collectibles (1)_11: 69403042
+      SNES - Home Improvement USA - Items & Collectibles (1)_110: 860539977
+      SNES - Home Improvement USA - Items & Collectibles (1)_111: 1764057078
+      SNES - Home Improvement USA - Items & Collectibles (1)_112: 1827789429
+      SNES - Home Improvement USA - Items & Collectibles (1)_113: -635093667
+      SNES - Home Improvement USA - Items & Collectibles (1)_114: 1701703948
+      SNES - Home Improvement USA - Items & Collectibles (1)_115: 1176628459
+      SNES - Home Improvement USA - Items & Collectibles (1)_116: -1294375958
+      SNES - Home Improvement USA - Items & Collectibles (1)_117: -1158222672
+      SNES - Home Improvement USA - Items & Collectibles (1)_118: 1868006694
+      SNES - Home Improvement USA - Items & Collectibles (1)_119: -1156053233
+      SNES - Home Improvement USA - Items & Collectibles (1)_12: -268097163
+      SNES - Home Improvement USA - Items & Collectibles (1)_120: -541523917
+      SNES - Home Improvement USA - Items & Collectibles (1)_121: 708851138
+      SNES - Home Improvement USA - Items & Collectibles (1)_122: 1348416936
+      SNES - Home Improvement USA - Items & Collectibles (1)_123: 783690885
+      SNES - Home Improvement USA - Items & Collectibles (1)_124: -1686174346
+      SNES - Home Improvement USA - Items & Collectibles (1)_125: -1774872973
+      SNES - Home Improvement USA - Items & Collectibles (1)_126: 744788796
+      SNES - Home Improvement USA - Items & Collectibles (1)_127: 1202846813
+      SNES - Home Improvement USA - Items & Collectibles (1)_128: 866525166
+      SNES - Home Improvement USA - Items & Collectibles (1)_129: 825128414
+      SNES - Home Improvement USA - Items & Collectibles (1)_13: -1360994569
+      SNES - Home Improvement USA - Items & Collectibles (1)_130: 1826367715
+      SNES - Home Improvement USA - Items & Collectibles (1)_131: 1032531121
+      SNES - Home Improvement USA - Items & Collectibles (1)_132: 1381382272
+      SNES - Home Improvement USA - Items & Collectibles (1)_133: -1310389494
+      SNES - Home Improvement USA - Items & Collectibles (1)_134: 1681377127
+      SNES - Home Improvement USA - Items & Collectibles (1)_135: -465140436
+      SNES - Home Improvement USA - Items & Collectibles (1)_136: -561251916
+      SNES - Home Improvement USA - Items & Collectibles (1)_137: -1979686789
+      SNES - Home Improvement USA - Items & Collectibles (1)_138: -1460419108
+      SNES - Home Improvement USA - Items & Collectibles (1)_139: 38309140
+      SNES - Home Improvement USA - Items & Collectibles (1)_14: -47689426
+      SNES - Home Improvement USA - Items & Collectibles (1)_140: 1525034933
+      SNES - Home Improvement USA - Items & Collectibles (1)_141: -949579078
+      SNES - Home Improvement USA - Items & Collectibles (1)_142: 1707767922
+      SNES - Home Improvement USA - Items & Collectibles (1)_143: 429651108
+      SNES - Home Improvement USA - Items & Collectibles (1)_144: 1009184835
+      SNES - Home Improvement USA - Items & Collectibles (1)_145: -812758892
+      SNES - Home Improvement USA - Items & Collectibles (1)_146: 175847829
+      SNES - Home Improvement USA - Items & Collectibles (1)_147: -212907198
+      SNES - Home Improvement USA - Items & Collectibles (1)_148: -1080191616
+      SNES - Home Improvement USA - Items & Collectibles (1)_149: 1867119983
+      SNES - Home Improvement USA - Items & Collectibles (1)_15: -493382067
+      SNES - Home Improvement USA - Items & Collectibles (1)_150: -1599518370
+      SNES - Home Improvement USA - Items & Collectibles (1)_151: 1016402349
+      SNES - Home Improvement USA - Items & Collectibles (1)_152: -276122096
+      SNES - Home Improvement USA - Items & Collectibles (1)_153: -834882219
+      SNES - Home Improvement USA - Items & Collectibles (1)_154: 730152103
+      SNES - Home Improvement USA - Items & Collectibles (1)_155: -977845804
+      SNES - Home Improvement USA - Items & Collectibles (1)_156: -943986660
+      SNES - Home Improvement USA - Items & Collectibles (1)_157: 174239336
+      SNES - Home Improvement USA - Items & Collectibles (1)_158: -862310944
+      SNES - Home Improvement USA - Items & Collectibles (1)_159: -1396391851
+      SNES - Home Improvement USA - Items & Collectibles (1)_16: -1699426325
+      SNES - Home Improvement USA - Items & Collectibles (1)_160: 1133418767
+      SNES - Home Improvement USA - Items & Collectibles (1)_161: -1964652366
+      SNES - Home Improvement USA - Items & Collectibles (1)_162: -620626905
+      SNES - Home Improvement USA - Items & Collectibles (1)_163: -1949835289
+      SNES - Home Improvement USA - Items & Collectibles (1)_17: 378997426
+      SNES - Home Improvement USA - Items & Collectibles (1)_18: 1432449455
+      SNES - Home Improvement USA - Items & Collectibles (1)_19: 982364020
+      SNES - Home Improvement USA - Items & Collectibles (1)_2: -1914998107
+      SNES - Home Improvement USA - Items & Collectibles (1)_20: -2087343602
+      SNES - Home Improvement USA - Items & Collectibles (1)_21: 859999658
+      SNES - Home Improvement USA - Items & Collectibles (1)_22: 478429592
+      SNES - Home Improvement USA - Items & Collectibles (1)_23: 950047584
+      SNES - Home Improvement USA - Items & Collectibles (1)_24: 1343592235
+      SNES - Home Improvement USA - Items & Collectibles (1)_25: -909669228
+      SNES - Home Improvement USA - Items & Collectibles (1)_26: 1080445764
+      SNES - Home Improvement USA - Items & Collectibles (1)_27: 964104767
+      SNES - Home Improvement USA - Items & Collectibles (1)_28: 1781240996
+      SNES - Home Improvement USA - Items & Collectibles (1)_29: -2080605529
+      SNES - Home Improvement USA - Items & Collectibles (1)_3: -1684578935
+      SNES - Home Improvement USA - Items & Collectibles (1)_30: 649157061
+      SNES - Home Improvement USA - Items & Collectibles (1)_31: -64088871
+      SNES - Home Improvement USA - Items & Collectibles (1)_32: 804128200
+      SNES - Home Improvement USA - Items & Collectibles (1)_33: -1490410867
+      SNES - Home Improvement USA - Items & Collectibles (1)_34: 898459203
+      SNES - Home Improvement USA - Items & Collectibles (1)_35: 2016208877
+      SNES - Home Improvement USA - Items & Collectibles (1)_36: 888853206
+      SNES - Home Improvement USA - Items & Collectibles (1)_37: -1380463872
+      SNES - Home Improvement USA - Items & Collectibles (1)_38: 611153223
+      SNES - Home Improvement USA - Items & Collectibles (1)_39: -2080557613
+      SNES - Home Improvement USA - Items & Collectibles (1)_4: 1371858803
+      SNES - Home Improvement USA - Items & Collectibles (1)_40: -1554007746
+      SNES - Home Improvement USA - Items & Collectibles (1)_41: -1803549568
+      SNES - Home Improvement USA - Items & Collectibles (1)_42: -1055332478
+      SNES - Home Improvement USA - Items & Collectibles (1)_43: 705289069
+      SNES - Home Improvement USA - Items & Collectibles (1)_44: -1336336561
+      SNES - Home Improvement USA - Items & Collectibles (1)_45: 622708703
+      SNES - Home Improvement USA - Items & Collectibles (1)_46: 2090003013
+      SNES - Home Improvement USA - Items & Collectibles (1)_47: 1277824576
+      SNES - Home Improvement USA - Items & Collectibles (1)_48: -698156374
+      SNES - Home Improvement USA - Items & Collectibles (1)_49: 1721384724
+      SNES - Home Improvement USA - Items & Collectibles (1)_5: 1799360447
+      SNES - Home Improvement USA - Items & Collectibles (1)_50: 1693257906
+      SNES - Home Improvement USA - Items & Collectibles (1)_51: -1685343699
+      SNES - Home Improvement USA - Items & Collectibles (1)_52: 317070991
+      SNES - Home Improvement USA - Items & Collectibles (1)_53: -1583080524
+      SNES - Home Improvement USA - Items & Collectibles (1)_54: 1398756355
+      SNES - Home Improvement USA - Items & Collectibles (1)_55: 1342511504
+      SNES - Home Improvement USA - Items & Collectibles (1)_56: 960540488
+      SNES - Home Improvement USA - Items & Collectibles (1)_57: 1862004070
+      SNES - Home Improvement USA - Items & Collectibles (1)_58: -963977600
+      SNES - Home Improvement USA - Items & Collectibles (1)_59: 1591279773
+      SNES - Home Improvement USA - Items & Collectibles (1)_6: -260580770
+      SNES - Home Improvement USA - Items & Collectibles (1)_60: -165997112
+      SNES - Home Improvement USA - Items & Collectibles (1)_61: 530902229
+      SNES - Home Improvement USA - Items & Collectibles (1)_62: -1562724743
+      SNES - Home Improvement USA - Items & Collectibles (1)_63: 1579503564
+      SNES - Home Improvement USA - Items & Collectibles (1)_64: 1449293491
+      SNES - Home Improvement USA - Items & Collectibles (1)_65: 629234748
+      SNES - Home Improvement USA - Items & Collectibles (1)_66: -1092224464
+      SNES - Home Improvement USA - Items & Collectibles (1)_67: -1424594465
+      SNES - Home Improvement USA - Items & Collectibles (1)_68: 1618766492
+      SNES - Home Improvement USA - Items & Collectibles (1)_69: 19212967
+      SNES - Home Improvement USA - Items & Collectibles (1)_7: 1361875512
+      SNES - Home Improvement USA - Items & Collectibles (1)_70: 1963691783
+      SNES - Home Improvement USA - Items & Collectibles (1)_71: -631403251
+      SNES - Home Improvement USA - Items & Collectibles (1)_72: 1307468141
+      SNES - Home Improvement USA - Items & Collectibles (1)_73: -76390679
+      SNES - Home Improvement USA - Items & Collectibles (1)_74: -1170288509
+      SNES - Home Improvement USA - Items & Collectibles (1)_75: 2050955723
+      SNES - Home Improvement USA - Items & Collectibles (1)_76: -892790041
+      SNES - Home Improvement USA - Items & Collectibles (1)_77: -1248092312
+      SNES - Home Improvement USA - Items & Collectibles (1)_78: 1557435228
+      SNES - Home Improvement USA - Items & Collectibles (1)_79: 379632255
+      SNES - Home Improvement USA - Items & Collectibles (1)_8: -716632757
+      SNES - Home Improvement USA - Items & Collectibles (1)_80: -1168969356
+      SNES - Home Improvement USA - Items & Collectibles (1)_81: -380736165
+      SNES - Home Improvement USA - Items & Collectibles (1)_82: 271542893
+      SNES - Home Improvement USA - Items & Collectibles (1)_83: 314949567
+      SNES - Home Improvement USA - Items & Collectibles (1)_84: 326560150
+      SNES - Home Improvement USA - Items & Collectibles (1)_85: 521344918
+      SNES - Home Improvement USA - Items & Collectibles (1)_86: 1376326149
+      SNES - Home Improvement USA - Items & Collectibles (1)_87: -1128123040
+      SNES - Home Improvement USA - Items & Collectibles (1)_88: 2087556749
+      SNES - Home Improvement USA - Items & Collectibles (1)_89: 1260245347
+      SNES - Home Improvement USA - Items & Collectibles (1)_9: -753972003
+      SNES - Home Improvement USA - Items & Collectibles (1)_90: -12709665
+      SNES - Home Improvement USA - Items & Collectibles (1)_91: -306305739
+      SNES - Home Improvement USA - Items & Collectibles (1)_92: -1661275740
+      SNES - Home Improvement USA - Items & Collectibles (1)_93: -1535043154
+      SNES - Home Improvement USA - Items & Collectibles (1)_94: -1048246540
+      SNES - Home Improvement USA - Items & Collectibles (1)_95: -2040019354
+      SNES - Home Improvement USA - Items & Collectibles (1)_96: 1180937546
+      SNES - Home Improvement USA - Items & Collectibles (1)_97: -247705168
+      SNES - Home Improvement USA - Items & Collectibles (1)_98: 500574451
+      SNES - Home Improvement USA - Items & Collectibles (1)_99: -1626227829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
